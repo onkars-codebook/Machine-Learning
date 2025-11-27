@@ -1,1 +1,13 @@
-datasets/creaditcard.csv
+datasets/creditcard.csv
+creditcard.csv
+
+# Large files (>100MB)
+*.csv
+!datasets/banknotes.csv
+!datasets/grades.csv
+!datasets/Mall_Customers.csv
+!datasets/movies.csv
+!datasets/wholesale.csv
+!datasets/wine-class.csv
+
+
